@@ -40,8 +40,7 @@ while True:
         print("************************")
     restart_game = input("Wanna play again (yes or no): ")
     if restart_game != "yes":
-            break
-print("May Allah bless you.") 
+            break
 input("To leave from here, type exit: ")       
 
 
