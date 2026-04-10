@@ -1,5 +1,4 @@
-print("Bismillah")
-print("I don't really know about this game so I just made it up")
+
 print("...........................")
 import random,os,shutil
 
@@ -15,7 +14,7 @@ while True:
         player_choice= input("Pick one; Rock, Paper or Scissor: ").lower()
     
     while player_choice=='':
-        player_choice = input("Pick one; Rock, Paper or Scissors: ").lower
+        player_choice = input("Pick one; Rock, Paper or Scissors: ").lower()
 
     if player_choice == computer_choice:
         print("-----------------------------------")
